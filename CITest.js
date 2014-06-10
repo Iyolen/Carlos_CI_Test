@@ -10,7 +10,7 @@ var graphics = function() {
     var ctx;
     var canvasId;
  
-    var cellSize = 10; // pixels
+    var cellSize = 10;
     var onColour = 'rgb(0, 200, 0)';
     var offColour = 'rgb(200, 0, 0)';
     var gridColour = 'rgb(50, 50, 50)';
